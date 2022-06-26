@@ -1,0 +1,165 @@
+* {
+    margin: 20;
+    padding: 20;
+    box-sizing: border-box;
+    }
+
+.menu {
+    height: 400px;
+    background-color: hsl(0, 0%, 90%);    
+    overflow: hidden; 
+    border-top: 5px solid hsl(202deg 90% 37%);
+    width: 95%;
+    padding-left: 10px;
+    margin: 10px;
+    
+    
+  }
+  
+
+  .column {
+    float: left;
+    width: 45%;
+    margin: 35px 5%;
+    margin-left: auto;
+    height: 600px;
+    background-color: hsl(0, 0%, 90%);
+    overflow: hidden; 
+    border-top: 5px solid hsl(202deg 90% 37%);
+    padding-left: 10px;
+    
+  
+  }
+
+  body {
+    font-family: 'News Cycle', sans-serif;
+    font-size: 16px;
+    padding: 20px;
+    padding-left: 20px;    
+}
+
+h1 {
+  color: hsl(202deg 90% 37%);
+  margin: 10px;
+}
+
+img {
+  width: 150px;
+  height: 200px;
+  object-fit: contain;
+}
+
+.Isaac {
+  max-width: 800px;
+  width: 90%;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  overflow: auto; 
+  border-top: 5px solid hsl(202deg 90% 37%);
+}
+
+.Isaac-left {
+  float: left;
+  margin-right: 20px;
+}
+
+.clear {
+  clear: both;
+}
+
+p {
+  text-align: justify;
+  margin-right: 10px;
+  
+}
+
+
+
+
+h1 {
+  color: hsl(202deg 90% 37%);
+  margin: 10px;
+}
+
+
+img {
+  width: 150px;
+  height: 200px;
+  object-fit: contain;
+}
+
+.Albert {
+  max-width: 400px;
+  width: 90%;
+  margin: 30px;
+  background: white;
+  padding: 20px;
+  overflow: auto; 
+  border-top: 5px solid hsl(202deg 90% 37%);
+}
+
+.Albert-left {
+  float: left;
+  margin-right: 20px;
+}
+
+.clear {
+  clear: both;
+}
+
+p {
+  text-align: justify;
+  margin-right: 10px;
+  padding: 20px;
+}
+
+
+
+h1 {
+  color: hsl(202deg 90% 37%);
+  margin: 10px;
+}
+
+img {
+  width: 150px;
+  height: 200px;
+  object-fit: contain;
+  margin: 10px;
+}
+
+.Nikola {
+  max-width: 400px;
+  width: 90%;
+  margin: 30px;
+  background: white;
+  padding: 20px;
+  overflow: auto; 
+  border-top: 5px solid hsl(202deg 90% 37%);
+
+}
+
+.Nikola-left {
+  float: left;
+  margin-right: 20px;
+}
+
+.clear {
+  clear: both;
+}
+
+p {
+  text-align: justify;
+  margin-right: 10px;
+  padding: 20px;
+  
+}
+
+h3 {
+  margin: 10px;
+}
+
+.riestas {
+  font-style: italic;
+
+}
